@@ -1,5 +1,5 @@
-
-unix£º1969
-mac£º1976
-windows£º1985
-linux£º1991
+ÖÐÎÄ
+unix:1969
+mac:1976
+windows:1985
+linux:1991
